@@ -8,7 +8,7 @@ a = float(input("\nEnter the value of a: "))
 b = float(input("\nEnter the value of b: "))
 c = float(input("\nEnter the value of c: "))
 
-d = (b**2 - 3*a*c)
+d = (b**2 - 4*a*c)
 D = cmath.sqrt(d)
 
 if d > 0:
